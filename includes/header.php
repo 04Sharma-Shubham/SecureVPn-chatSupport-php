@@ -8,7 +8,7 @@
     <meta name="description" content="SecureVPN - Fast, secure, and private VPN service. Protect your online privacy with military-grade encryption, global servers, and no-logs policy.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="icon" type="image/png" href="assets/images/vpn-favicon.png">
@@ -31,7 +31,7 @@ s0.parentNode.insertBefore(s1,s0);
     <div id="loading-screen">
         <div class="loader">
             <div class="plate-icon">
-                <i class="fas fa-shield-alt"></i>
+                <i class="fas fa-lock"></i>
             </div>
             <div class="loading-text">SecureVPN</div>
         </div>
@@ -43,7 +43,7 @@ s0.parentNode.insertBefore(s1,s0);
             <div class="nav-container">
                 <div class="nav-logo">
                     <a href="index.php">
-                        <i class="fas fa-shield-alt"></i>
+                        <i class="fas fa-lock"></i>
                         <span>SecureVPN</span>
                     </a>
                 </div>

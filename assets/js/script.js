@@ -17,7 +17,7 @@ function initializeWebsite() {
         if (loadingScreen) {
             loadingScreen.classList.add('hidden');
         }
-    }, 1500);
+    }, 1000);
 
     // Initialize all components
     initializeNavigation();
@@ -169,7 +169,7 @@ function initializeHeroSlider() {
 
 function startSlideshow() {
     stopSlideshow();
-    slideInterval = setInterval(nextSlide, 5000);
+    slideInterval = setInterval(nextSlide, 3000);
 }
 
 function stopSlideshow() {
@@ -661,7 +661,7 @@ function initializeCookiePopup() {
     // Show popup after a short delay only if no choice was made
     setTimeout(() => {
         showCookiePopup();
-    }, 1000);
+    }, 1500);
     
     // Event listeners for all buttons - only redirect when clicked
     if (cookieAcceptBtn) {

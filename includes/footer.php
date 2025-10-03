@@ -6,7 +6,7 @@
                     <!-- About Section -->
                     <div class="footer-section">
                         <div class="footer-logo">
-                            <i class="fas fa-shield-alt"></i>
+                            <i class="fas fa-lock"></i>
                             <span>SecureVPN</span>
                         </div>
                         <p class="footer-description">
